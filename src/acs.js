@@ -4,7 +4,6 @@ const config = {
   name: "acs",
   version: "1.0.0",
   credits: "LIKHON AHMED",
-  permissions: [0],
   description: "Send OTP via ACS Future School API",
   usage: "acs <phone>",
   cooldowns: 0,
